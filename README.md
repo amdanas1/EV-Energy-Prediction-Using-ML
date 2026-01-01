@@ -1,2 +1,2 @@
 # EV-Energy-Prediction-Using-ML
-Using a Kaggle dataset (by Ziya07), the code predicts the energy efficiency of electric vehicle data given in the dataset.
+​A comprehensive study on predicting Electric Vehicle energy consumption. This project compares standard statistical approaches (Phase 1) against physics-guided feature engineering (Phase 2). By integrating domain knowledge—such as aerodynamic drag and realistic efficiency limits—the final Random Forest model achieved robust predictive performance on synthetic driving data.
